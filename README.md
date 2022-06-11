@@ -49,3 +49,31 @@
 ## Link
 
 [Acesse esta imagen](https://www.bing.com/images/search?view=detailV2&ccid=%2bASzcBCj&id=039CF9496774172352200017389B75ACE3C1E3E4&thid=OIP.-ASzcBCjY_vctbyxZY1flQHaFj&mediaurl=https%3a%2f%2fi.ytimg.com%2fvi%2fZaMKazoMETU%2fhqdefault.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.f804b37010a363fbdcb5bcb1658d5f95%3frik%3d5OPB46x1mzgXAA%26pid%3dImgRaw%26r%3d0&exph=360&expw=480&q=imagem+gr%c3%a1tis+teste&simid=608039577001620026&FORM=IRPRST&ck=690C936D4BE4570B7798A29A1512B0E2&selectedIndex=0&ajaxhist=0&ajaxserp=0)
+
+---
+## Tabela
+
+Num | Nome | Nota
+---|---|---
+1 | Rogério | 7,5
+2 | José | 8,5
+4 | Maria | 10
+
+---
+## Exemplos de colagem/postagem de comandos 
+
+Não entendo para que serve  o comando `document.getElementById()` da linguagem JavaScript
+   #### Olha meu programa em Python
+   ```
+   num = int(input('Digite um valor: ')
+   if num % 2 == 0;
+      print(f'O valor {num} é PAR')
+   else:
+      print(f'O valor {num} é ÍMPAR')
+   
+   ```
+   ---
+   ## Emoji
+  Olá 🖖 🐙
+   
+
